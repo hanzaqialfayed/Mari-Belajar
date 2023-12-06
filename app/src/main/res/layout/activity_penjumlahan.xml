@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".PenjumlahanActivity">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/penjumlahan1"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan1"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan2"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan2"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan3"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan3"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan4"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan4"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan5"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan5"/>
+            <ImageButton
+                android:id="@+id/penjumlahan6"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan6"/>
+            <ImageButton
+                android:id="@+id/penjumlahan7"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan7"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan8"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan8"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan9"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan9"/>
+
+            <ImageButton
+                android:id="@+id/penjumlahan10"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/penjumlahan10"/>
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/back"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/back"/>
+</RelativeLayout>

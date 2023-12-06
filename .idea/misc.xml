@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_belajar.xml" value="0.20416666666666666" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_belajarberhitung.xml" value="0.1" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_pengucapan.xml" value="0.16324626865671643" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_pengucapanhuruf.xml" value="0.14854682454251883" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_pengurangan.xml" value="0.20416666666666666" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/activity_penjumlahan.xml" value="0.20416666666666666" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/pengurangan.xml" value="0.19010416666666666" />
+        <entry key="..\:/appbelajar/app/src/main/res/layout/styles.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

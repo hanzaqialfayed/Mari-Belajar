@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".PenguranganActivity">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/pengurangan1"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan1"/>
+
+            <ImageButton
+                android:id="@+id/pengurangan2"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan2"/>
+
+            <ImageButton
+                android:id="@+id/pengurangan3"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan3"/>
+
+            <ImageButton
+                android:id="@+id/pengurangan4"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan4"/>
+
+            <ImageButton
+                android:id="@+id/pengurangan5"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan5"/>
+            <ImageButton
+                android:id="@+id/pengurangan6"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan6"/>
+            <ImageButton
+                android:id="@+id/pengurangan7"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan7"/>
+            <ImageButton
+                android:id="@+id/pengurangan8"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan8"/>
+            <ImageButton
+                android:id="@+id/pengurangan9"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan9"/>
+            <ImageButton
+                android:id="@+id/pengurangan10"
+                android:layout_width="220dp"
+                android:layout_height="260dp"
+                android:background="@drawable/pengurangan10"/>
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/back"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/back"/>
+
+
+</RelativeLayout>
